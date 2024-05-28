@@ -51,7 +51,7 @@ const about = {
 }
 
 const experience = {
-  icon: '/assets/resume/badge.svg',
+  icon: '/assets/assets/resume/badge.svg',
   title: 'My Experince',
   description: "Throughout my career, I have had the opportunity to work with various organizations, contributing to their projects as a product designer and frontend developer. My experience spans across freelance projects and contract-based positions, where I have honed my skills and delivered exceptional results.",
   items: [
@@ -74,7 +74,7 @@ const experience = {
 }
 
 const education = {
-  icon: '/assets/resume/cap.svg',
+  icon: '/assets/assets/resume/cap.svg',
   title: 'My Education',
   description: "I have a solid educational background in computer science and engineering, complemented by specialized training programs that have equipped me with the latest skills and knowledge in software development.",
   items: [
