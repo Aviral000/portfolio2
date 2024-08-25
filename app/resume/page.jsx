@@ -61,12 +61,12 @@ const experience = {
       duration: "2021 - Present",
     },
     {
-      company: "UNSO Real Estate",
+      company: "Life Of Young",
       position: "Assistant Frontend Developer",
       duration: "Jan 2022 - May 2023",
     },
     {
-      company: "LoyLuxury",
+      company: "Life Of Young",
       position: "Frontend Developer",
       duration: "April 2023 - June 2024",
     },
