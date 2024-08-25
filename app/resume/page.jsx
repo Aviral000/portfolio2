@@ -57,13 +57,13 @@ const experience = {
   items: [
     {
       company: "FreeLancer.co",
-      position: "Product Designer",
+      position: "UI/UX Developer",
       duration: "2021 - Present",
     },
     {
       company: "UNSO Real Estate",
-      position: "Product Designer",
-      duration: "May 2022 - Dec 2022",
+      position: "Assistant Frontend Developer",
+      duration: "Jan 2022 - May 2023",
     },
     {
       company: "LoyLuxury",
